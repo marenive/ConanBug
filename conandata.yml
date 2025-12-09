@@ -1,0 +1,5 @@
+patches:
+  "0.2":
+    - patch_file: "patches/patch1.patch"
+      patch_level: 1      # equivalent to `patch -p1`
+      description: "Update greeting message."
